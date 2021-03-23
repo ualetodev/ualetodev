@@ -1,4 +1,4 @@
-👋 Hi, I’m @ualetodev. The @ualetoapp dev
+👋 Hi, I’m @ualetodev. The [@ualetoapp](https://github.com/ualetoapp) developer
 
 👀 I’m interested in Blockchain Development
 
