@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ualetodev
+- 👀 I’m interested in blockchain development
+- 🌱 I’m currently learning about DeFi Apps
+- 💞️ I’m looking to collaborate on DeFi Ecosystem
+- 📫 I'm on ualetodev@protonmail.com
